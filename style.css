@@ -104,7 +104,7 @@ button {
   border-radius: 5px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #0b4f8a;
+  background-color: #880E4F;
   color: #fff;
 }
 
@@ -113,7 +113,7 @@ button:hover {
 }
 
 button.reset {
-  background-color: #DCDCDC;
+  background-color: #ADD8A6;
 }
 
 button.reset:hover {
