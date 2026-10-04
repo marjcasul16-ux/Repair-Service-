@@ -37,13 +37,12 @@ h2 {
 table {
   width: 100%;
   border-collapse: collapse;
-  box-sizing: border-box;
 }
 
 .services th,
 .services td {
   border: 1px solid #b8c7d6;
-  padding: 6px;
+  padding: 10px;
   text-align: left;
 }
 
