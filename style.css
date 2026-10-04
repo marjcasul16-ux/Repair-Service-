@@ -109,11 +109,11 @@ button {
 }
 
 button:hover {
-  background-color: #083a66;
+  background-color: #E91E63;
 }
 
 button.reset {
-  background-color: #777;
+  background-color: #F8BBD0;
 }
 
 button.reset:hover {
